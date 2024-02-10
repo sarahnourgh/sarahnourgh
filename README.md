@@ -16,6 +16,6 @@ Just a curious explorer navigating the intersection of numbers, code, and financ
 
 ## Let's Connect 🌐
 
-Dive into my repositories, drop a star on what inspires you, and let's embark on an adventure together! Connect via email at [your@email.com](mailto:ghaithsarahnour@gmail.com).
+Dive into my repositories, drop a star on what inspires you, and let's embark on an adventure together! Connect via email at [ghaithsarahnour@gmail.com](mailto:ghaithsarahnour@gmail.com).
 
 Happy coding!
