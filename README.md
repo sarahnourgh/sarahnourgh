@@ -1,4 +1,4 @@
-# Welcome to the GitHub repository of **Ghaith Sarahnour** 🚀
+# Welcome to the GitHub repository of **Sarahnour GHAITH** 🚀
 
 Delve into the world of quantitative finance and data science with curated projects and insights crafted to explore the intricate realms of financial modeling and data analytics. 💼📈
 
